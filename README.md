@@ -1,2 +1,2 @@
 # Test
-sample lab programs
+sample Test programs
